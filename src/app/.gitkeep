@@ -1,0 +1,12 @@
+.github/
+docs/
+public/
+src/
+firebase/
+database/
+tests/
+scripts/
+design/
+localization/
+config/
+deployment/
